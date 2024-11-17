@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Custom Sneaker 1",
+      "price": 100,
+      "image": "/images/sneaker1.jpg",
+      "description": "A trendy custom sneaker."
+    },
+    {
+      "id": 2,
+      "name": "Custom Sneaker 2",
+      "price": 120,
+      "image": "/images/sneaker2.jpg",
+      "description": "A stylish custom sneaker."
+    }
+  ]
+
+
+
+  
